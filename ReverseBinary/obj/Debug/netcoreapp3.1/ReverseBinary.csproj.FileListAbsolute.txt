@@ -1,0 +1,12 @@
+D:\Szkola\Introduction to programming\Challenges\ReverseBinary\bin\Debug\netcoreapp3.1\ReverseBinary.exe
+D:\Szkola\Introduction to programming\Challenges\ReverseBinary\bin\Debug\netcoreapp3.1\ReverseBinary.deps.json
+D:\Szkola\Introduction to programming\Challenges\ReverseBinary\bin\Debug\netcoreapp3.1\ReverseBinary.runtimeconfig.json
+D:\Szkola\Introduction to programming\Challenges\ReverseBinary\bin\Debug\netcoreapp3.1\ReverseBinary.runtimeconfig.dev.json
+D:\Szkola\Introduction to programming\Challenges\ReverseBinary\bin\Debug\netcoreapp3.1\ReverseBinary.dll
+D:\Szkola\Introduction to programming\Challenges\ReverseBinary\bin\Debug\netcoreapp3.1\ReverseBinary.pdb
+D:\Szkola\Introduction to programming\Challenges\ReverseBinary\obj\Debug\netcoreapp3.1\ReverseBinary.AssemblyInfoInputs.cache
+D:\Szkola\Introduction to programming\Challenges\ReverseBinary\obj\Debug\netcoreapp3.1\ReverseBinary.AssemblyInfo.cs
+D:\Szkola\Introduction to programming\Challenges\ReverseBinary\obj\Debug\netcoreapp3.1\ReverseBinary.csproj.CoreCompileInputs.cache
+D:\Szkola\Introduction to programming\Challenges\ReverseBinary\obj\Debug\netcoreapp3.1\ReverseBinary.dll
+D:\Szkola\Introduction to programming\Challenges\ReverseBinary\obj\Debug\netcoreapp3.1\ReverseBinary.pdb
+D:\Szkola\Introduction to programming\Challenges\ReverseBinary\obj\Debug\netcoreapp3.1\ReverseBinary.genruntimeconfig.cache
