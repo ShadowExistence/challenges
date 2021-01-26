@@ -1,0 +1,12 @@
+D:\Szkola\Introduction to programming\Challenges\Smooth Sentences\bin\Debug\netcoreapp3.1\Smooth Sentences.exe
+D:\Szkola\Introduction to programming\Challenges\Smooth Sentences\bin\Debug\netcoreapp3.1\Smooth Sentences.deps.json
+D:\Szkola\Introduction to programming\Challenges\Smooth Sentences\bin\Debug\netcoreapp3.1\Smooth Sentences.runtimeconfig.json
+D:\Szkola\Introduction to programming\Challenges\Smooth Sentences\bin\Debug\netcoreapp3.1\Smooth Sentences.runtimeconfig.dev.json
+D:\Szkola\Introduction to programming\Challenges\Smooth Sentences\bin\Debug\netcoreapp3.1\Smooth Sentences.dll
+D:\Szkola\Introduction to programming\Challenges\Smooth Sentences\bin\Debug\netcoreapp3.1\Smooth Sentences.pdb
+D:\Szkola\Introduction to programming\Challenges\Smooth Sentences\obj\Debug\netcoreapp3.1\Smooth Sentences.AssemblyInfoInputs.cache
+D:\Szkola\Introduction to programming\Challenges\Smooth Sentences\obj\Debug\netcoreapp3.1\Smooth Sentences.AssemblyInfo.cs
+D:\Szkola\Introduction to programming\Challenges\Smooth Sentences\obj\Debug\netcoreapp3.1\Smooth Sentences.csproj.CoreCompileInputs.cache
+D:\Szkola\Introduction to programming\Challenges\Smooth Sentences\obj\Debug\netcoreapp3.1\Smooth Sentences.dll
+D:\Szkola\Introduction to programming\Challenges\Smooth Sentences\obj\Debug\netcoreapp3.1\Smooth Sentences.pdb
+D:\Szkola\Introduction to programming\Challenges\Smooth Sentences\obj\Debug\netcoreapp3.1\Smooth Sentences.genruntimeconfig.cache

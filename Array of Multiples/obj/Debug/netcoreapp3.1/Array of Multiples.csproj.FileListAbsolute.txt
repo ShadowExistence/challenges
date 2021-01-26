@@ -1,0 +1,12 @@
+D:\Szkola\Introduction to programming\Challenges\Array of Multiples\bin\Debug\netcoreapp3.1\Array of Multiples.exe
+D:\Szkola\Introduction to programming\Challenges\Array of Multiples\bin\Debug\netcoreapp3.1\Array of Multiples.deps.json
+D:\Szkola\Introduction to programming\Challenges\Array of Multiples\bin\Debug\netcoreapp3.1\Array of Multiples.runtimeconfig.json
+D:\Szkola\Introduction to programming\Challenges\Array of Multiples\bin\Debug\netcoreapp3.1\Array of Multiples.runtimeconfig.dev.json
+D:\Szkola\Introduction to programming\Challenges\Array of Multiples\bin\Debug\netcoreapp3.1\Array of Multiples.dll
+D:\Szkola\Introduction to programming\Challenges\Array of Multiples\bin\Debug\netcoreapp3.1\Array of Multiples.pdb
+D:\Szkola\Introduction to programming\Challenges\Array of Multiples\obj\Debug\netcoreapp3.1\Array of Multiples.AssemblyInfoInputs.cache
+D:\Szkola\Introduction to programming\Challenges\Array of Multiples\obj\Debug\netcoreapp3.1\Array of Multiples.AssemblyInfo.cs
+D:\Szkola\Introduction to programming\Challenges\Array of Multiples\obj\Debug\netcoreapp3.1\Array of Multiples.csproj.CoreCompileInputs.cache
+D:\Szkola\Introduction to programming\Challenges\Array of Multiples\obj\Debug\netcoreapp3.1\Array of Multiples.dll
+D:\Szkola\Introduction to programming\Challenges\Array of Multiples\obj\Debug\netcoreapp3.1\Array of Multiples.pdb
+D:\Szkola\Introduction to programming\Challenges\Array of Multiples\obj\Debug\netcoreapp3.1\Array of Multiples.genruntimeconfig.cache

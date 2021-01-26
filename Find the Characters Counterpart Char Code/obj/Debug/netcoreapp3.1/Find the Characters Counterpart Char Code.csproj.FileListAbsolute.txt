@@ -1,0 +1,13 @@
+D:\Szkola\Introduction to programming\Challenges\Find the Characters Counterpart Char Code\bin\Debug\netcoreapp3.1\Find the Characters Counterpart Char Code.exe
+D:\Szkola\Introduction to programming\Challenges\Find the Characters Counterpart Char Code\bin\Debug\netcoreapp3.1\Find the Characters Counterpart Char Code.deps.json
+D:\Szkola\Introduction to programming\Challenges\Find the Characters Counterpart Char Code\bin\Debug\netcoreapp3.1\Find the Characters Counterpart Char Code.runtimeconfig.json
+D:\Szkola\Introduction to programming\Challenges\Find the Characters Counterpart Char Code\bin\Debug\netcoreapp3.1\Find the Characters Counterpart Char Code.runtimeconfig.dev.json
+D:\Szkola\Introduction to programming\Challenges\Find the Characters Counterpart Char Code\bin\Debug\netcoreapp3.1\Find the Characters Counterpart Char Code.dll
+D:\Szkola\Introduction to programming\Challenges\Find the Characters Counterpart Char Code\bin\Debug\netcoreapp3.1\Find the Characters Counterpart Char Code.pdb
+D:\Szkola\Introduction to programming\Challenges\Find the Characters Counterpart Char Code\obj\Debug\netcoreapp3.1\Find the Characters Counterpart Char Code.csprojAssemblyReference.cache
+D:\Szkola\Introduction to programming\Challenges\Find the Characters Counterpart Char Code\obj\Debug\netcoreapp3.1\Find the Characters Counterpart Char Code.AssemblyInfoInputs.cache
+D:\Szkola\Introduction to programming\Challenges\Find the Characters Counterpart Char Code\obj\Debug\netcoreapp3.1\Find the Characters Counterpart Char Code.AssemblyInfo.cs
+D:\Szkola\Introduction to programming\Challenges\Find the Characters Counterpart Char Code\obj\Debug\netcoreapp3.1\Find the Characters Counterpart Char Code.csproj.CoreCompileInputs.cache
+D:\Szkola\Introduction to programming\Challenges\Find the Characters Counterpart Char Code\obj\Debug\netcoreapp3.1\Find the Characters Counterpart Char Code.dll
+D:\Szkola\Introduction to programming\Challenges\Find the Characters Counterpart Char Code\obj\Debug\netcoreapp3.1\Find the Characters Counterpart Char Code.pdb
+D:\Szkola\Introduction to programming\Challenges\Find the Characters Counterpart Char Code\obj\Debug\netcoreapp3.1\Find the Characters Counterpart Char Code.genruntimeconfig.cache
