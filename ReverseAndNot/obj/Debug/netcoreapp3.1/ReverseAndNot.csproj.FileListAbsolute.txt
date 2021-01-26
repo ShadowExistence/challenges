@@ -1,0 +1,12 @@
+D:\Szkola\Introduction to programming\Challenges\ReverseAndNot\bin\Debug\netcoreapp3.1\ReverseAndNot.exe
+D:\Szkola\Introduction to programming\Challenges\ReverseAndNot\bin\Debug\netcoreapp3.1\ReverseAndNot.deps.json
+D:\Szkola\Introduction to programming\Challenges\ReverseAndNot\bin\Debug\netcoreapp3.1\ReverseAndNot.runtimeconfig.json
+D:\Szkola\Introduction to programming\Challenges\ReverseAndNot\bin\Debug\netcoreapp3.1\ReverseAndNot.runtimeconfig.dev.json
+D:\Szkola\Introduction to programming\Challenges\ReverseAndNot\bin\Debug\netcoreapp3.1\ReverseAndNot.dll
+D:\Szkola\Introduction to programming\Challenges\ReverseAndNot\bin\Debug\netcoreapp3.1\ReverseAndNot.pdb
+D:\Szkola\Introduction to programming\Challenges\ReverseAndNot\obj\Debug\netcoreapp3.1\ReverseAndNot.AssemblyInfoInputs.cache
+D:\Szkola\Introduction to programming\Challenges\ReverseAndNot\obj\Debug\netcoreapp3.1\ReverseAndNot.AssemblyInfo.cs
+D:\Szkola\Introduction to programming\Challenges\ReverseAndNot\obj\Debug\netcoreapp3.1\ReverseAndNot.csproj.CoreCompileInputs.cache
+D:\Szkola\Introduction to programming\Challenges\ReverseAndNot\obj\Debug\netcoreapp3.1\ReverseAndNot.dll
+D:\Szkola\Introduction to programming\Challenges\ReverseAndNot\obj\Debug\netcoreapp3.1\ReverseAndNot.pdb
+D:\Szkola\Introduction to programming\Challenges\ReverseAndNot\obj\Debug\netcoreapp3.1\ReverseAndNot.genruntimeconfig.cache
