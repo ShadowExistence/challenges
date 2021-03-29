@@ -1,0 +1,13 @@
+D:\Szkola\Introduction to programming\Challenges\Tic Tac Toe\bin\Debug\netcoreapp3.1\Tic Tac Toe.exe
+D:\Szkola\Introduction to programming\Challenges\Tic Tac Toe\bin\Debug\netcoreapp3.1\Tic Tac Toe.deps.json
+D:\Szkola\Introduction to programming\Challenges\Tic Tac Toe\bin\Debug\netcoreapp3.1\Tic Tac Toe.runtimeconfig.json
+D:\Szkola\Introduction to programming\Challenges\Tic Tac Toe\bin\Debug\netcoreapp3.1\Tic Tac Toe.runtimeconfig.dev.json
+D:\Szkola\Introduction to programming\Challenges\Tic Tac Toe\bin\Debug\netcoreapp3.1\Tic Tac Toe.dll
+D:\Szkola\Introduction to programming\Challenges\Tic Tac Toe\bin\Debug\netcoreapp3.1\Tic Tac Toe.pdb
+D:\Szkola\Introduction to programming\Challenges\Tic Tac Toe\obj\Debug\netcoreapp3.1\Tic Tac Toe.csprojAssemblyReference.cache
+D:\Szkola\Introduction to programming\Challenges\Tic Tac Toe\obj\Debug\netcoreapp3.1\Tic Tac Toe.AssemblyInfoInputs.cache
+D:\Szkola\Introduction to programming\Challenges\Tic Tac Toe\obj\Debug\netcoreapp3.1\Tic Tac Toe.AssemblyInfo.cs
+D:\Szkola\Introduction to programming\Challenges\Tic Tac Toe\obj\Debug\netcoreapp3.1\Tic Tac Toe.csproj.CoreCompileInputs.cache
+D:\Szkola\Introduction to programming\Challenges\Tic Tac Toe\obj\Debug\netcoreapp3.1\Tic Tac Toe.dll
+D:\Szkola\Introduction to programming\Challenges\Tic Tac Toe\obj\Debug\netcoreapp3.1\Tic Tac Toe.pdb
+D:\Szkola\Introduction to programming\Challenges\Tic Tac Toe\obj\Debug\netcoreapp3.1\Tic Tac Toe.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Szkola\Introduction to programming\Challenges\Area of Overlapping Rectangles\bin\Debug\netcoreapp3.1\Area of Overlapping Rectangles.exe
+D:\Szkola\Introduction to programming\Challenges\Area of Overlapping Rectangles\bin\Debug\netcoreapp3.1\Area of Overlapping Rectangles.deps.json
+D:\Szkola\Introduction to programming\Challenges\Area of Overlapping Rectangles\bin\Debug\netcoreapp3.1\Area of Overlapping Rectangles.runtimeconfig.json
+D:\Szkola\Introduction to programming\Challenges\Area of Overlapping Rectangles\bin\Debug\netcoreapp3.1\Area of Overlapping Rectangles.runtimeconfig.dev.json
+D:\Szkola\Introduction to programming\Challenges\Area of Overlapping Rectangles\bin\Debug\netcoreapp3.1\Area of Overlapping Rectangles.dll
+D:\Szkola\Introduction to programming\Challenges\Area of Overlapping Rectangles\bin\Debug\netcoreapp3.1\Area of Overlapping Rectangles.pdb
+D:\Szkola\Introduction to programming\Challenges\Area of Overlapping Rectangles\obj\Debug\netcoreapp3.1\Area of Overlapping Rectangles.csprojAssemblyReference.cache
+D:\Szkola\Introduction to programming\Challenges\Area of Overlapping Rectangles\obj\Debug\netcoreapp3.1\Area of Overlapping Rectangles.AssemblyInfoInputs.cache
+D:\Szkola\Introduction to programming\Challenges\Area of Overlapping Rectangles\obj\Debug\netcoreapp3.1\Area of Overlapping Rectangles.AssemblyInfo.cs
+D:\Szkola\Introduction to programming\Challenges\Area of Overlapping Rectangles\obj\Debug\netcoreapp3.1\Area of Overlapping Rectangles.csproj.CoreCompileInputs.cache
+D:\Szkola\Introduction to programming\Challenges\Area of Overlapping Rectangles\obj\Debug\netcoreapp3.1\Area of Overlapping Rectangles.dll
+D:\Szkola\Introduction to programming\Challenges\Area of Overlapping Rectangles\obj\Debug\netcoreapp3.1\Area of Overlapping Rectangles.pdb
+D:\Szkola\Introduction to programming\Challenges\Area of Overlapping Rectangles\obj\Debug\netcoreapp3.1\Area of Overlapping Rectangles.genruntimeconfig.cache

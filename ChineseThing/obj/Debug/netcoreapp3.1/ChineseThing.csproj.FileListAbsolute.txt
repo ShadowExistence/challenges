@@ -1,0 +1,13 @@
+D:\Szkola\Introduction to programming\Challenges\ChineseThing\bin\Debug\netcoreapp3.1\ChineseThing.exe
+D:\Szkola\Introduction to programming\Challenges\ChineseThing\bin\Debug\netcoreapp3.1\ChineseThing.deps.json
+D:\Szkola\Introduction to programming\Challenges\ChineseThing\bin\Debug\netcoreapp3.1\ChineseThing.runtimeconfig.json
+D:\Szkola\Introduction to programming\Challenges\ChineseThing\bin\Debug\netcoreapp3.1\ChineseThing.runtimeconfig.dev.json
+D:\Szkola\Introduction to programming\Challenges\ChineseThing\bin\Debug\netcoreapp3.1\ChineseThing.dll
+D:\Szkola\Introduction to programming\Challenges\ChineseThing\bin\Debug\netcoreapp3.1\ChineseThing.pdb
+D:\Szkola\Introduction to programming\Challenges\ChineseThing\obj\Debug\netcoreapp3.1\ChineseThing.AssemblyInfoInputs.cache
+D:\Szkola\Introduction to programming\Challenges\ChineseThing\obj\Debug\netcoreapp3.1\ChineseThing.AssemblyInfo.cs
+D:\Szkola\Introduction to programming\Challenges\ChineseThing\obj\Debug\netcoreapp3.1\ChineseThing.csproj.CoreCompileInputs.cache
+D:\Szkola\Introduction to programming\Challenges\ChineseThing\obj\Debug\netcoreapp3.1\ChineseThing.dll
+D:\Szkola\Introduction to programming\Challenges\ChineseThing\obj\Debug\netcoreapp3.1\ChineseThing.pdb
+D:\Szkola\Introduction to programming\Challenges\ChineseThing\obj\Debug\netcoreapp3.1\ChineseThing.genruntimeconfig.cache
+D:\Szkola\Introduction to programming\Challenges\ChineseThing\obj\Debug\netcoreapp3.1\ChineseThing.csprojAssemblyReference.cache

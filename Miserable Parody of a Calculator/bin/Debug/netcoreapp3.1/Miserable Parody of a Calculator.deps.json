@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Miserable Parody of a Calculator/1.0.0": {
+        "runtime": {
+          "Miserable Parody of a Calculator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Miserable Parody of a Calculator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

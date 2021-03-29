@@ -1,0 +1,13 @@
+D:\Szkola\Introduction to programming\Challenges\ExtractingFiles\bin\Release\netcoreapp3.1\ExtractingFiles.exe
+D:\Szkola\Introduction to programming\Challenges\ExtractingFiles\bin\Release\netcoreapp3.1\ExtractingFiles.deps.json
+D:\Szkola\Introduction to programming\Challenges\ExtractingFiles\bin\Release\netcoreapp3.1\ExtractingFiles.runtimeconfig.json
+D:\Szkola\Introduction to programming\Challenges\ExtractingFiles\bin\Release\netcoreapp3.1\ExtractingFiles.runtimeconfig.dev.json
+D:\Szkola\Introduction to programming\Challenges\ExtractingFiles\bin\Release\netcoreapp3.1\ExtractingFiles.dll
+D:\Szkola\Introduction to programming\Challenges\ExtractingFiles\bin\Release\netcoreapp3.1\ExtractingFiles.pdb
+D:\Szkola\Introduction to programming\Challenges\ExtractingFiles\obj\Release\netcoreapp3.1\ExtractingFiles.AssemblyInfoInputs.cache
+D:\Szkola\Introduction to programming\Challenges\ExtractingFiles\obj\Release\netcoreapp3.1\ExtractingFiles.AssemblyInfo.cs
+D:\Szkola\Introduction to programming\Challenges\ExtractingFiles\obj\Release\netcoreapp3.1\ExtractingFiles.csproj.CoreCompileInputs.cache
+D:\Szkola\Introduction to programming\Challenges\ExtractingFiles\obj\Release\netcoreapp3.1\ExtractingFiles.dll
+D:\Szkola\Introduction to programming\Challenges\ExtractingFiles\obj\Release\netcoreapp3.1\ExtractingFiles.pdb
+D:\Szkola\Introduction to programming\Challenges\ExtractingFiles\obj\Release\netcoreapp3.1\ExtractingFiles.genruntimeconfig.cache
+D:\Szkola\Introduction to programming\Challenges\ExtractingFiles\obj\Release\netcoreapp3.1\ExtractingFiles.csprojAssemblyReference.cache

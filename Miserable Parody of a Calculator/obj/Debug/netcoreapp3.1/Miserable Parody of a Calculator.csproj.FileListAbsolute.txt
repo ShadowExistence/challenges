@@ -1,0 +1,13 @@
+D:\Szkola\Introduction to programming\Challenges\Miserable Parody of a Calculator\bin\Debug\netcoreapp3.1\Miserable Parody of a Calculator.exe
+D:\Szkola\Introduction to programming\Challenges\Miserable Parody of a Calculator\bin\Debug\netcoreapp3.1\Miserable Parody of a Calculator.deps.json
+D:\Szkola\Introduction to programming\Challenges\Miserable Parody of a Calculator\bin\Debug\netcoreapp3.1\Miserable Parody of a Calculator.runtimeconfig.json
+D:\Szkola\Introduction to programming\Challenges\Miserable Parody of a Calculator\bin\Debug\netcoreapp3.1\Miserable Parody of a Calculator.runtimeconfig.dev.json
+D:\Szkola\Introduction to programming\Challenges\Miserable Parody of a Calculator\bin\Debug\netcoreapp3.1\Miserable Parody of a Calculator.dll
+D:\Szkola\Introduction to programming\Challenges\Miserable Parody of a Calculator\bin\Debug\netcoreapp3.1\Miserable Parody of a Calculator.pdb
+D:\Szkola\Introduction to programming\Challenges\Miserable Parody of a Calculator\obj\Debug\netcoreapp3.1\Miserable Parody of a Calculator.csprojAssemblyReference.cache
+D:\Szkola\Introduction to programming\Challenges\Miserable Parody of a Calculator\obj\Debug\netcoreapp3.1\Miserable Parody of a Calculator.AssemblyInfoInputs.cache
+D:\Szkola\Introduction to programming\Challenges\Miserable Parody of a Calculator\obj\Debug\netcoreapp3.1\Miserable Parody of a Calculator.AssemblyInfo.cs
+D:\Szkola\Introduction to programming\Challenges\Miserable Parody of a Calculator\obj\Debug\netcoreapp3.1\Miserable Parody of a Calculator.csproj.CoreCompileInputs.cache
+D:\Szkola\Introduction to programming\Challenges\Miserable Parody of a Calculator\obj\Debug\netcoreapp3.1\Miserable Parody of a Calculator.dll
+D:\Szkola\Introduction to programming\Challenges\Miserable Parody of a Calculator\obj\Debug\netcoreapp3.1\Miserable Parody of a Calculator.pdb
+D:\Szkola\Introduction to programming\Challenges\Miserable Parody of a Calculator\obj\Debug\netcoreapp3.1\Miserable Parody of a Calculator.genruntimeconfig.cache
